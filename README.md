@@ -261,46 +261,46 @@ Example response
 ```
 [ 
   "content" => array:10 [
-    "name" => "2023-03-15 17:13:55-hello.js"
-    "path" => "2023-03-15 17:13:55-hello.js"
-    "sha" => "2bb5ed3a72e1df69aebbe8eafeba105700353621"
+    "name" => "put.js"
+    "path" => "put.js"
+    "sha" => "c9b0ef8f0ee18f5bd97543b0a7ce375472111b81"
     "size" => 38
-    "url" => "https://api.github.com/repos/vardtheo/sf-test/contents/2023-03-15%2017:13:55-hello.js?ref=main"
-    "html_url" => "https://github.com/vardtheo/sf-test/blob/main/2023-03-15%2017:13:55-hello.js"
-    "git_url" => "https://api.github.com/repos/vardtheo/sf-test/git/blobs/2bb5ed3a72e1df69aebbe8eafeba105700353621"
-    "download_url" => "https://raw.githubusercontent.com/vardtheo/sf-test/main/2023-03-15%2017%3A13%3A55-hello.js?token=AY75EOQIJPX43WQB6NCPWQ3ECH6RA"
+    "url" => "https://api.github.com/repos/vardtheo/sf-test/contents/put.js?ref=main"
+    "html_url" => "https://github.com/vardtheo/sf-test/blob/main/put.js"
+    "git_url" => "https://api.github.com/repos/vardtheo/sf-test/git/blobs/c9b0ef8f0ee18f5bd97543b0a7ce375472111b81"
+    "download_url" => "https://raw.githubusercontent.com/vardtheo/sf-test/main/put.js?token=AY75EOWNU7PXQ7ISBUVHRNTECI5KW"
     "type" => "file"
     "_links" => array:3 [
-      "self" => "https://api.github.com/repos/vardtheo/sf-test/contents/2023-03-15%2017:13:55-hello.js?ref=main"
-      "git" => "https://api.github.com/repos/vardtheo/sf-test/git/blobs/2bb5ed3a72e1df69aebbe8eafeba105700353621"
-      "html" => "https://github.com/vardtheo/sf-test/blob/main/2023-03-15%2017:13:55-hello.js"
+      "self" => "https://api.github.com/repos/vardtheo/sf-test/contents/put.js?ref=main"
+      "git" => "https://api.github.com/repos/vardtheo/sf-test/git/blobs/c9b0ef8f0ee18f5bd97543b0a7ce375472111b81"
+      "html" => "https://github.com/vardtheo/sf-test/blob/main/put.js"
     ]
   ]
   "commit" => array:10 [
-    "sha" => "069473e11fb4fe2552ba4f1625b8a6a0ed027eb2"
-    "node_id" => "C_kwDOJI1IjNoAKDA2OTQ3M2UxMWZiNGZlMjU1MmJhNGYxNjI1YjhhNmEwZWQwMjdlYjI"
-    "url" => "https://api.github.com/repos/vardtheo/sf-test/git/commits/069473e11fb4fe2552ba4f1625b8a6a0ed027eb2"
-    "html_url" => "https://github.com/vardtheo/sf-test/commit/069473e11fb4fe2552ba4f1625b8a6a0ed027eb2"
+    "sha" => "2a5b9992244ca9bb5e9e37d012c95de9f88f27df"
+    "node_id" => "C_kwDOJI1IjNoAKDJhNWI5OTkyMjQ0Y2E5YmI1ZTllMzdkMDEyYzk1ZGU5Zjg4ZjI3ZGY"
+    "url" => "https://api.github.com/repos/vardtheo/sf-test/git/commits/2a5b9992244ca9bb5e9e37d012c95de9f88f27df"
+    "html_url" => "https://github.com/vardtheo/sf-test/commit/2a5b9992244ca9bb5e9e37d012c95de9f88f27df"
     "author" => array:3 [
       "name" => "TechInsights"
       "email" => "ti@amdocs-ti.com"
-      "date" => "2023-03-15T17:13:56Z"
+      "date" => "2023-03-15T21:36:47Z"
     ]
     "committer" => array:3 [
       "name" => "TechInsights"
       "email" => "ti@amdocs-ti.com"
-      "date" => "2023-03-15T17:13:56Z"
+      "date" => "2023-03-15T21:36:47Z"
     ]
     "tree" => array:2 [
-      "sha" => "d24a23f0cffd9e91d68e1b679ddb63b4e7e13442"
-      "url" => "https://api.github.com/repos/vardtheo/sf-test/git/trees/d24a23f0cffd9e91d68e1b679ddb63b4e7e13442"
+      "sha" => "53df08fa72895e35f5fe4fe860d39d07671acf74"
+      "url" => "https://api.github.com/repos/vardtheo/sf-test/git/trees/53df08fa72895e35f5fe4fe860d39d07671acf74"
     ]
-    "message" => "Created via NWM at 2023-03-15 17:13:55"
+    "message" => "Created via NWM at 2023-03-15 21:36:47"
     "parents" => array:1 [
       0 => array:3 [
-        "sha" => "52797af71b0f189d957934d362241879ad0b42a5"
-        "url" => "https://api.github.com/repos/vardtheo/sf-test/git/commits/52797af71b0f189d957934d362241879ad0b42a5"
-        "html_url" => "https://github.com/vardtheo/sf-test/commit/52797af71b0f189d957934d362241879ad0b42a5"
+        "sha" => "c973bbbaf06b2269966f89a40f9e3763044efa15"
+        "url" => "https://api.github.com/repos/vardtheo/sf-test/git/commits/c973bbbaf06b2269966f89a40f9e3763044efa15"
+        "html_url" => "https://github.com/vardtheo/sf-test/commit/c973bbbaf06b2269966f89a40f9e3763044efa15"
       ]
     ]
     "verification" => array:4 [
@@ -337,3 +337,106 @@ Example response:
   ]
 ]
 ```        
+
+# Update File
+
+Example response:
+
+```
+[
+  "content" => array:10 [
+    "name" => "put.js"
+    "path" => "put.js"
+    "sha" => "6c1e3044539555f96678bf3f3bc92bf6a866ad1a"
+    "size" => 38
+    "url" => "https://api.github.com/repos/vardtheo/sf-test/contents/put.js?ref=main"
+    "html_url" => "https://github.com/vardtheo/sf-test/blob/main/put.js"
+    "git_url" => "https://api.github.com/repos/vardtheo/sf-test/git/blobs/6c1e3044539555f96678bf3f3bc92bf6a866ad1a"
+    "download_url" => "https://raw.githubusercontent.com/vardtheo/sf-test/main/put.js?token=AY75EOUK5C5RQX7AQ2X4PWLECI5MS"
+    "type" => "file"
+    "_links" => array:3 [
+      "self" => "https://api.github.com/repos/vardtheo/sf-test/contents/put.js?ref=main"
+      "git" => "https://api.github.com/repos/vardtheo/sf-test/git/blobs/6c1e3044539555f96678bf3f3bc92bf6a866ad1a"
+      "html" => "https://github.com/vardtheo/sf-test/blob/main/put.js"
+    ]
+  ]
+  "commit" => array:10 [
+    "sha" => "b6d8b43fa9c772b41b1de894abe73b85e54469cf"
+    "node_id" => "C_kwDOJI1IjNoAKGI2ZDhiNDNmYTljNzcyYjQxYjFkZTg5NGFiZTczYjg1ZTU0NDY5Y2Y"
+    "url" => "https://api.github.com/repos/vardtheo/sf-test/git/commits/b6d8b43fa9c772b41b1de894abe73b85e54469cf"
+    "html_url" => "https://github.com/vardtheo/sf-test/commit/b6d8b43fa9c772b41b1de894abe73b85e54469cf"
+    "author" => array:3 [
+      "name" => "TechInsights"
+      "email" => "ti@amdocs-ti.com"
+      "date" => "2023-03-15T21:37:17Z"
+    ]
+    "committer" => array:3 [
+      "name" => "TechInsights"
+      "email" => "ti@amdocs-ti.com"
+      "date" => "2023-03-15T21:37:17Z"
+    ]
+    "tree" => array:2 [
+      "sha" => "7cc3c017adcfd04eab1db09cc421f4bf77930b93"
+      "url" => "https://api.github.com/repos/vardtheo/sf-test/git/trees/7cc3c017adcfd04eab1db09cc421f4bf77930b93"
+    ]
+    "message" => "Updated via NWM at 2023-03-15 21:37:17"
+    "parents" => array:1 [
+      0 => array:3 [
+        "sha" => "2a5b9992244ca9bb5e9e37d012c95de9f88f27df"
+        "url" => "https://api.github.com/repos/vardtheo/sf-test/git/commits/2a5b9992244ca9bb5e9e37d012c95de9f88f27df"
+        "html_url" => "https://github.com/vardtheo/sf-test/commit/2a5b9992244ca9bb5e9e37d012c95de9f88f27df"
+      ]
+    ]
+    "verification" => array:4 [
+      "verified" => false
+      "reason" => "unsigned"
+      "signature" => null
+      "payload" => null
+    ]
+  ]
+]
+```
+
+# Delete File
+
+Example response:
+
+```
+[ 
+  "content" => null
+  "commit" => array:10 [
+    "sha" => "c973bbbaf06b2269966f89a40f9e3763044efa15"
+    "node_id" => "C_kwDOJI1IjNoAKGM5NzNiYmJhZjA2YjIyNjk5NjZmODlhNDBmOWUzNzYzMDQ0ZWZhMTU"
+    "url" => "https://api.github.com/repos/vardtheo/sf-test/git/commits/c973bbbaf06b2269966f89a40f9e3763044efa15"
+    "html_url" => "https://github.com/vardtheo/sf-test/commit/c973bbbaf06b2269966f89a40f9e3763044efa15"
+    "author" => array:3 [
+      "name" => "TechInsights"
+      "email" => "ti@amdocs-ti.com"
+      "date" => "2023-03-15T21:35:24Z"
+    ]
+    "committer" => array:3 [
+      "name" => "TechInsights"
+      "email" => "ti@amdocs-ti.com"
+      "date" => "2023-03-15T21:35:24Z"
+    ]
+    "tree" => array:2 [
+      "sha" => "fb224e4793800ac7b3a579e57e093340c3ebd4ed"
+      "url" => "https://api.github.com/repos/vardtheo/sf-test/git/trees/fb224e4793800ac7b3a579e57e093340c3ebd4ed"
+    ]
+    "message" => "Deleted via NWM at 2023-03-15 21:35:23"
+    "parents" => array:1 [
+      0 => array:3 [
+        "sha" => "de5be725847b4a2bbc1ad78ac8418412ef942e39"
+        "url" => "https://api.github.com/repos/vardtheo/sf-test/git/commits/de5be725847b4a2bbc1ad78ac8418412ef942e39"
+        "html_url" => "https://github.com/vardtheo/sf-test/commit/de5be725847b4a2bbc1ad78ac8418412ef942e39"
+      ]
+    ]
+    "verification" => array:4 [
+      "verified" => false
+      "reason" => "unsigned"
+      "signature" => null
+      "payload" => null
+    ]
+  ]
+]
+```
