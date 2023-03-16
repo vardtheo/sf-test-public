@@ -3,7 +3,7 @@
 |Username|vardtheo|
 |---|---|
 |Repository|sf-test|
-|---|---|
+|Branch|main (default), dev|
 
 # Repository Info
 
